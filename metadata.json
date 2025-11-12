@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Creative Suite",
+  "description": "A powerful web application leveraging the Gemini API to generate and edit images and videos, and analyze video content. Explore features like text-to-image, text-to-video, image animation, AI-powered image editing, and video frame analysis.",
+  "requestFramePermissions": []
+}
